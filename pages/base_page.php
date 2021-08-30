@@ -15,9 +15,6 @@
     <!-- CSS Box Icons CDN -->
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
-    <!-- CSS IZI Toast CDN -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.css">
-
     <!-- Font for the website (Name font: Prompt) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,32 +39,15 @@
         </div>
     </div>
     <!-- End of the loading animation -->
-    <main class="main">
-        <div class="container">
-            <section class="wrapper">
-                <div class="heading">
-                    <h1 class="text text-large">Efetuar Login</h1>
-                    </p>
-                </div>
-                <form name="login" class="form">
-                    <div class="input-control">
-                        <input type="email" id="user__identity" name="email" class="input-field" placeholder="Email">
-                    </div>
-                    <div class="striped">
-                        <span class="striped-line"></span>
-                    </div>
-                    <div class="input-control">
-                        <input type="password" id="user__password" name="password" class="input-field" placeholder="Password">
-                    </div>
-                    <div class="input-control">
-                        <div class="error__output"></div>
-                        <input type="button" name="submit" class="input-submit mx-auto mt-4" value="Login" onclick="searchUser()">
-                    </div>
-                </form>
-            </section>
+    <!-- Start of the page content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                content here
+            </div>
         </div>
-    </main>
-
+    </div>
+    <!-- End of the page content -->
     <!-- CDN Jquery -->
     <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 
