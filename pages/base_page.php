@@ -12,6 +12,10 @@
     <!-- CSS Animate CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
+    <!-- CSS Font Awesome -->
+    <!-- Source font https://fontawesome.com/v5.15/how-to-use/customizing-wordpress/snippets/setup-cdn-webfont -->
+    <link rel="stylesheet" href="https://kit-pro.fontawesome.com/releases/v5.15.4/css/pro.min.css" />
+
     <!-- CSS Box Icons CDN -->
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
